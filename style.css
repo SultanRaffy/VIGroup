@@ -1,0 +1,67 @@
+* {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #eae2b7;
+}
+
+#gallery {
+  background-color: #eae2b7;
+}
+
+#contacs {
+  background-color: #eae2b7;
+}
+
+#footer {
+  background-color: #eae2b7;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.about-content ul li {
+  width: 50%;
+  float: left;
+  list-style-type: none;
+  margin-top: 3px;
+}
+
+.info-text {
+  font-size: 13px;
+}
+
+.text {
+  color: #5e5e5e;
+}
+
+.span-text {
+  color: black;
+  font-weight: bold;
+}
+
+.fa-stack {
+  font-size: 24px;
+}
+
+.fa-stack:hover {
+  color: #eae2b7;
+}
+
+i {
+  vertical-align: middle;
+}
+
+.navbar {
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+  border-radius: 0 0 10px 10px;
+  background-color: #795c34;
+}
