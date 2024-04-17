@@ -65,3 +65,21 @@ i {
   border-radius: 0 0 10px 10px;
   background-color: #795c34;
 }
+
+.mySlides {
+  display: none;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
